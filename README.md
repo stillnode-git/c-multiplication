@@ -1,1 +1,1 @@
-Generate random multiplications
+Generate n multiplications randomly.
