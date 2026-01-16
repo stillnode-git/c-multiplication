@@ -1,0 +1,12 @@
+# Ignore binaries
+bin/
+
+# ignore objects files
+*.o
+
+# ignore tmp files
+* swp
+*.tmp
+
+# ignore log files
+*.log
